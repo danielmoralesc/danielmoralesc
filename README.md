@@ -47,7 +47,7 @@ How height, diet, health and living conditions changed with modernisation, and h
 
 - 🎓 **PhD thesis** at the Public University of Navarre (supervised by Cristián Ducoing Ruiz and Mar Rubio-Varas): *Economic modernisation and its impact on sustainable development: the case of Chile*
 - 📄 **Forthcoming** in *Apuntes. Revista de Ciencias Sociales* (Jul 2027): *Incorporación de la cocina moderna en los hogares chilenos durante el desarrollismo, c.1940-1970*
-- 🎤 **Upcoming talks:** ESSHC, Lyon (Apr 2027) · SEHA, Granada (Jun 2027)
+- 🎤 **Upcoming talks:** ESSHC, Lyon (Apr 2027)
 
 ## Selected publications
 
