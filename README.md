@@ -15,6 +15,7 @@
   <a href="https://orcid.org/0000-0002-5581-8542"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&amp;logo=orcid&amp;logoColor=black"></a>
   <a href="https://scholar.google.es/citations?user=nphqYZIAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=black"></a>
   <a href="https://www.scopus.com/authid/detail.uri?authorId=57220117004"><img alt="Scopus" src="https://img.shields.io/badge/Scopus-E9711C?style=for-the-badge&amp;logo=scopus&amp;logoColor=black"></a>
+  <a href="https://www.linkedin.com/in/daniel-morales-campos-a92576414/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"></a>
   <a href="mailto:daniel.morales@unavarra.es"><img alt="Email" src="https://img.shields.io/badge/Email-555555?style=for-the-badge"></a>
 </p>
 
@@ -74,4 +75,4 @@ Before and alongside research, I design and build websites for academic associat
 
 ---
 
-<p align="center"><sub><a href="https://danielmoralesc.github.io/cv/">Full CV</a> · <a href="https://danielmoralesc.github.io/talks/">Talks</a> · <a href="https://danielmoralesc.github.io/resume.json">resume.json</a><br>Generated automatically from resume.json · last updated 2026-11-12</sub></p>
+<p align="center"><sub><a href="https://danielmoralesc.github.io/cv/">Full CV</a> · <a href="https://danielmoralesc.github.io/talks/">Talks</a> · <a href="https://danielmoralesc.github.io/resume.json">resume.json</a><br>Generated automatically from resume.json · last updated 2026-11-13</sub></p>
